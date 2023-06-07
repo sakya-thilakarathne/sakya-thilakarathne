@@ -4,14 +4,14 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashani123&label=Profile%20views&color=0e75b6&style=flat" alt="aashani123" /> </p>
 
-- 🌱 I’m currently learning **Java, Vue JS, Node Js**
+- 🌱 I’m currently learning **Java, Vue JS, Node Js, React**
 
 - 📝 I regularly write articles on [https://medium.com/@sakyathilakarathne96](https://medium.com/@sakyathilakarathne96)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashani tharushika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashani tharushika" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sakya-thilakarathne-72a057246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sakya Thilakarathne" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
