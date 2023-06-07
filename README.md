@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java, Vue JS, Node Js**
 
-- 📝 I regularly write articles on [https://medium.com/@ranasingharaat.20](https://medium.com/@ranasingharaat.20)
+- 📝 I regularly write articles on [https://medium.com/@sakyathilakarathne96](https://medium.com/@sakyathilakarathne96)
 
 
 <h3 align="left">Connect with me:</h3>
