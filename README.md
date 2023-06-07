@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Sakya Thilakarathne</h1>
+<h1 align="center">Hi 👋,I'm Sakya Thilakarathne</h1>
 <h3 align="center">An undergraduate of University of Moratuwa</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
