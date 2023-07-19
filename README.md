@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/sakya-thilakarathne-72a057246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sakya Thilakarathne" height="30" width="40" /></a>
 </p>
 
-#### Top Technologies
+<h3>Top Technologies</h3> 
 
 [![Vuejs Badge](https://img.shields.io/badge/-vuejs-61DBFB?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3C873A?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=3C873A)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![MYSQL Badge](https://img.shields.io/badge/-MYSQL-ffa500?style=for-the-badge&labelColor=black&logo=MYSQL&logoColor=ffa500)](#) [![html5 Badge](https://img.shields.io/badge/-html5-c0392b?style=for-the-badge&labelColor=black&logo=html5&logoColor=c0392b)](#)
 
