@@ -6,7 +6,7 @@
 
 - 🎓 I'm currently studying for Bsc. (Hons.) in IT&M at University of Moratuwa.
 - 📝 I studied at Yasodara Devi Balika Vidyalaya.
-- 🌱 I’m currently learning **Java, Vue JS, Node Js, React**
+- 🌱 I’m currently learning **Java, Vue JS, Node Js, React, .Net**
 -  I'm a Youtuber. [Travel Saki](https://www.youtube.com/@TravelSaki)
 - 📝 I regularly write articles on [Sakya Thilakarathne](https://medium.com/@sakyathilakarathne96)
 
